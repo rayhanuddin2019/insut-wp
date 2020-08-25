@@ -1,0 +1,136 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?sj6rzq');
+  src:  url('../fonts/icomoon.eot?sj6rzq#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?sj6rzq') format('truetype'),
+    url('../fonts/icomoon.woff?sj6rzq') format('woff'),
+    url('../fonts/icomoon.svg?sj6rzq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="insut-"], [class*=" insut-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon';
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  letter-spacing: 0;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.insut-Icon5:before {
+  content: "\e900";
+}
+.insut-Icon6 .path1:before {
+  content: "\e901";
+}
+.insut-Icon6 .path2:before {
+  content: "\e902";
+}
+.insut-Icon6 .path3:before {
+  content: "\e903";
+}
+.insut-Icon7 .path1:before {
+  content: "\e904";
+}
+.insut-Icon7 .path2:before {
+  content: "\e905";
+}
+.insut-Icon7 .path3:before {
+  content: "\e906";
+}
+.insut-Icon8:before {
+  content: "\e907";
+}
+.insut-Icon9:before {
+  content: "\e908";
+}
+.insut-Icon10:before {
+  content: "\e909";
+}
+.insut-Icon11 .path1:before {
+  content: "\e90a";
+}
+.insut-Icon11 .path2:before {
+  content: "\e90b";
+}
+.insut-Icon11 .path3:before {
+  content: "\e90c";
+}
+.insut-Icon12:before {
+  content: "\e90d";
+}
+.insut-Icon13:before {
+  content: "\e90e";
+}
+.insut-Icon14:before {
+  content: "\e90f";
+}
+.insut-Icon15:before {
+  content: "\e910";
+}
+.insut-Icon16:before {
+  content: "\e911";
+}
+.insut-Icon17:before {
+  content: "\e912";
+}
+.insut-Icon18:before {
+  content: "\e913";
+}
+.insut-Logo .path1:before {
+  content: "\e914";
+}
+.insut-Logo .path2:before {
+  content: "\e915";
+}
+.insut-Logo .path3:before {
+  content: "\e916";
+}
+.insut-Gradient-Overlay:before {
+  content: "\e917";
+}
+.insut-Icon .path1:before {
+  content: "\e918";
+}
+.insut-Icon .path2:before {
+  content: "\e919";
+}
+.insut-Icon .path3:before {
+  content: "\e91a";
+}
+.insut-Icon1 .path1:before {
+  content: "\e91b";
+}
+.insut-Icon1 .path2:before {
+  content: "\e91c";
+}
+.insut-Icon1 .path3:before {
+  content: "\e91d";
+}
+.insut-Icon2 .path1:before {
+  content: "\e91e";
+}
+.insut-Icon2 .path2:before {
+  content: "\e91f";
+}
+.insut-Icon2 .path3:before {
+  content: "\e920";
+}
+.insut-Icon2 .path4:before {
+  content: "\e921";
+}
+.insut-Icon3:before {
+  content: "\e922";
+}
+.insut-Icon4:before {
+  content: "\e923";
+}
