@@ -78,6 +78,9 @@
 .blog-single p{
   margin: 0 0 25px;
 }
+.blog-single .single-blog-section{
+  padding:0;
+ }
 .page .qomodo-entry-content p {
   margin: 0 0 35px;
 }
