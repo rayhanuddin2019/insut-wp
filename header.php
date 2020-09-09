@@ -21,12 +21,10 @@
 
                 <?php if($general_pre_loader): ?>
                     <div class="preloader" id="preloader">
-                        <div class="three ">
-                            <div class="loader" id="loader">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
+                        <div class="lds-ellipsis">
+                            <span></span>
+                            <span></span>
+                            <span></span>
                         </div>
                     </div>
                 <?php endif; ?>

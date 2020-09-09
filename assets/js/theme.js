@@ -1,21 +1,11 @@
-/*
- Theme Name: Insut
- Theme URI: 
- Author: Mosharof
- Author URI: 
- Description: Insut - Insurance HTML5 Responsive Template
- Version: 1.0
- License:
- License URI:
- */
  
 /*=======================================================================
  [Table of contents]
  =========================================================================
- 1. Hero Slider
- 2. Progress Bar
- 3. Fun Fact Count
- 4. Quote Service Slider 
+ 
+ 1. Progress Bar
+ 2. Fun Fact Count
+ 3. Quote Service Slider 
  5. Form Slider Range
  6. Vido Popup
  7. Testimonial Slider
@@ -29,6 +19,7 @@
  15. Case Suffle
  16. Case Relative Slider
  17. Testimonial Slider 04
+
  */
 
 (function ($) {
@@ -36,7 +27,7 @@
 
    
     /*--------------------------------------------------------
-     / 2. Progress Bar
+     / 1. Progress Bar
      /----------------------------------------------------------*/
     if($(".progress-bar").length > 0)
     {
@@ -68,7 +59,7 @@
     }
 
     /*--------------------------------------------------------
-    / 3. Fun Fact Count
+    / 2. Fun Fact Count
     /----------------------------------------------------------*/
      var skl = true;
     $('.timer').appear();
@@ -90,10 +81,9 @@
         }
     });
 
-  
 
     /*--------------------------------------------------------
-    / 5. Form Slider Range
+    / 3. Form Slider Range
     /----------------------------------------------------------*/
     if ($('#slider-range').length > 0) {
         $('#slider-range').slider({
@@ -118,7 +108,7 @@
     
      
     /*--------------------------------------------------------
-    / 6. Vido Popup
+    / 4. Vido Popup
     /----------------------------------------------------------*/
     $('.popup-video').lightcase({
         transition: 'elastic',
@@ -129,10 +119,8 @@
         controls: true
     });
 
-   
-
     /*--------------------------------------------------------
-    / 8. Back To Top
+    / 5. Back To Top
     /----------------------------------------------------------*/
     $("body, html").on("click", "#backtotop", function (e) {
         e.preventDefault();
@@ -140,7 +128,7 @@
     });
     
     /*--------------------------------------------------------
-    / 9. Select 2 
+    / 6. Select 2 
     /----------------------------------------------------------*/
     $(document).ready(function() {
         $('.select-agent select').select2({
@@ -151,13 +139,9 @@
         });
     });
 
-    
-
-
-   
 
     /*--------------------------------------------------------
-    / 13. Accordian Custom 
+    / 7. Accordian Custom 
     /----------------------------------------------------------*/
      $('#accordion')
         .on('show.bs.collapse', function (e) {
@@ -167,7 +151,7 @@
        $(e.target).parent('.sf').removeClass('active');
     });
     /*--------------------------------------------------------
-    / 14. Service Relative Slider
+    / 8. Service Relative Slider
     /----------------------------------------------------------*/
     if($(".relative-slider").length > 0){
        $('.relative-slider').owlCarousel({
@@ -195,7 +179,7 @@
     }
    
     /*--------------------------------------------------------
-    / 16. Case Relative Slider
+    / 9. Case Relative Slider
     /----------------------------------------------------------*/
     if($(".case-relative-slider").length > 0){
        $('.case-relative-slider').owlCarousel({
@@ -223,14 +207,18 @@
     }
 
 
-        /*---------------------------------
-           17 COMMENTS
-        ----------------------------------*/
-        var comment_form = $('textarea#comment');
-        if (comment_form.length) {
-            $('textarea#comment').html($('textarea#comment').html().trim());
-        }
+    /*---------------------------------
+        10 COMMENTS
+    ----------------------------------*/
+    var comment_form = $('textarea#comment');
+    if (comment_form.length) {
+        $('textarea#comment').html($('textarea#comment').html().trim());
+    }
 
+    /*===============================
+         11   Prealoder
+    ================================*/
+    $('#preloader').delay(500).fadeOut(500);
    
 
 })(jQuery);

@@ -23,7 +23,7 @@ class Demo
         $demos_array			 = array(
             'default'			 => array(
                     'title'			 => esc_html__( 'Demo', 'insut' ),
-                    'screenshot'	 => esc_url( $demo_content_installer ) . '/default/screenshot.png',
+                    'screenshot'	 => esc_url( $demo_content_installer ) . '/default/screenshot.jpg',
                     'preview_link'	 => esc_url( 'https://themeforest.net/user/quomodotheme/portfolio' ),
             ),
             
