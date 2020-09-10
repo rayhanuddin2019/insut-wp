@@ -16,7 +16,7 @@
                 </div>
             </div>
         <?php endif; ?>
-        <div class="sbp-details clearfix">
+        <div class="sbp-details clearfix <?php echo esc_attr(!has_post_thumbnail()?'border-top':''); ?>">
             <?php insut_post_meta() ?> 
             <?php insut_social_share() ?> 
            

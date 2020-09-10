@@ -1229,15 +1229,14 @@
     color: #c7c7c7;
   }
   
- 
 
   .footer-area .widget ul li a.url,
   .footer-area .widget ul li a.rsswidget,   
   .footer-area .widget_calendar td#today{
     color: #fff;
   }
-  .footer-area ul:not(.menu) li {
-      /* padding-bottom: 8px; */
+  .sbp-details.border-top{
+    border-top: 2px solid #f5f8ff !important;;
   }
 
 
