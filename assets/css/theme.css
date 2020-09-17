@@ -5307,12 +5307,14 @@ footer .widget ul li a:hover{
 .single-service-box{
     position: relative;
     background: #f5f8ff;
-    padding: 10px 10px 26px;
+    padding: 10px 25px 26px;
     margin-bottom: 30px;
 }
 .service-img{
     position: relative;
     margin-bottom: 52px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 .service-img img{
     width: 100%;
@@ -5351,7 +5353,8 @@ footer .widget ul li a:hover{
     transform: rotateY(180deg);
 }
 .single-service-box h4{
-    font-size: 25px;
+    line-height: 1.4;
+    font-size: 22px;
     margin-bottom: 20px;
 }
 .single-service-box h4 a{
@@ -6421,11 +6424,11 @@ footer .widget ul li a:hover{
 }
 .blog-sidebar{
     position: relative;
-    padding-left: 60px;
+    padding-left: 0px;
 }
 .blog-sidebar .widget{
     position: relative;
-    margin: 0 0 58px;
+    margin: 0 0 30px;
     background: #f5f8ff;
     padding: 35px 30px 20px;
 }
@@ -7393,4 +7396,279 @@ footer .widget ul li a:hover{
 		transform:translateY(0)
 	}
 }
+.header-02.sticky, .header-03.sticky{
+    background:#1a1f2c;
+ }
+header.sticky{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.04);
+    z-index: 999;
+    animation: sticky  1.2s;
+}
+header.sticky .navbar.navbar-expand-lg:after{
+    display: none;
+}
+@-webkit-keyframes sticky {
+    0% {
+        top: -200px;
+    }
+    100% {
+        top: 0;
+    }
+}
+@keyframes sticky {
+    0% {
+        top: -200px;
+    }
+    100% {
+        top: 0;
+    }
+}
 
+
+.about-area-thumb{
+	margin-left: 30px;
+}
+.insut-btn{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	padding: 15px 21px;
+}
+.service-tab-title li a{
+	padding: 26px 15px;
+}
+.service-tab-title li a i{
+	top: 3px;
+}
+.single-testimonial .quote{
+	line-height: 0;
+}
+.calltoaction-area .find-icon{
+	line-height: 108px;
+}
+.tab-content-box p span{
+	margin-top: 30px;
+}
+.fact-icon i{
+	line-height: 50px;
+}
+.qomodo-blog-post-comment .btn-comments:hover {
+    background: #1a1f2c;
+    color: #fff;
+}
+.find-form button{
+	padding: 9px 25px 17px;
+}
+.find-form button i{
+	top: 3px;
+	color: #1a1f2c;
+}
+.about-us-area{
+	padding-left: 0;
+	padding-right: 70px;
+}
+.elementor .post-thumb-round img{
+	height: 100%;
+	border-radius: 10px;
+}
+.elementor .ser-thumb img{
+	height: 100%;
+	border-radius: 10px;
+}
+.single-service:hover .ser-icon{
+	-webkit-text-stroke: 2px #2c79fd;
+   color: transparent;
+}
+.shape-icon{
+	  right: 0;
+    bottom: -5px;
+    width: 180px;
+    height: 120px;
+    -webkit-clip-path: polygon(100% -12%, -475% 0%, 100% 100%);
+    clip-path: polygon(100% 0, -591% -165%, 100% 100%);
+}
+.ab-ht-content blockquote{
+	background: transparent;
+}
+.ab-ht-content{
+	padding-right: 0;
+}
+.flip-back-icon i{
+	position: absolute;
+   left: 0;
+   right: 0;
+   bottom: -22px;
+   margin: 0 auto;
+}
+.calltoaction-area{
+	overflow: hidden;
+}
+.single-case .read-more{
+	bottom: 48px;
+}
+.service-details-section,
+.case-details-section{
+	padding: 0;
+}
+footer .mailchimp-widget input[type="email"] {
+    height: 55px;
+    line-height: 55px;
+    border: none;
+    font-size: 15px;
+    color: #0e0e0e;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding: 0 20px;
+    width: 100%;
+    background: #fff;
+    outline: none;
+    border-radius: 5px;
+}
+footer .mailchimp-widget button{
+	width: 55px;
+	position: absolute;
+	right: 0;
+	border-radius: 5px;
+	line-height: 24px;
+}
+footer .mailchimp-widget button i{
+	padding-left: 0;
+}
+footer .mailchimp-widget button span,
+footer .mailchimp-widget .agree-checkbox{
+	display: none;
+}
+.footer-cta .insut-btn i{
+	top: 7px;
+}
+.footer-cta .insut-btn{
+	padding: 9px 27px;
+}
+.footer-01 .mailchimp-widget button{
+	background: linear-gradient(-90deg, rgba(51,159,48,1) 0%, rgba(173,206,15,1) 100%)
+}
+.footer-01 .mailchimp-widget button:after {
+    background: rgb(0,169,252);
+    background: linear-gradient(-90deg, rgba(0,169,252,1) 0%, rgba(8,85,253,1) 100%);
+}
+@media (max-width: 767px){
+	.ab-years {
+    font-size: 80px;
+	}
+	.footer-area .widget:last-child{
+		margin-bottom: 40px;
+	}
+	.ab-thumb:after{
+		display: none;
+	}
+	.page-banner{
+		padding-top: 225px;
+	}
+	.comments-list .comment-body{
+		padding-left: 0;
+	}
+}
+@media (max-width: 1199px){
+	.cus-column {
+    padding-left: 15px;
+	}
+	.quote-contact {
+    padding-left: 15px;
+	}
+	.overflow{
+		overflow: hidden;
+	}
+	.calltoaction-wrapper{
+		overflow: hidden;
+	}
+	.about-us-area{
+		padding-right: 0;
+	}
+	.cta-content .title br{
+		display: none;
+	}
+	.case-meta {
+    width: calc(100% - 20px);
+		height: calc(100% - 20px);
+    margin-top: 10px;
+		padding-top: 15px;
+	}
+	.case-overlay {
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+	}
+	.single-case .read-more {
+    bottom: 35px;
+    border-color: #0762fd;
+    color: #0762fd;
+    right: 25px;
+    left: auto;
+		height: 40px;
+		width: 40px;
+		line-height: 36px;
+	}
+	.qomodo-blog-post-comment{
+		padding-right: 0;
+	}
+}
+@media (max-width: 991px){
+	.quote-contact {
+		padding-top: 25px;
+	}
+	.team-details h4{
+		font-size: 22px;
+	}
+	.calltoaction-wrapper .icon-box-02 p{
+		margin-bottom: 20px;
+	}
+	.calltoaction-wrapper .icon-box-02 i{
+		margin-bottom: 20px;
+		display: block;
+	}
+	.find-wrapper h3{
+		font-size: 25px;
+	}
+	.navbar-two.navbar-expand-lg .navbar-nav li.dropdown .nav-link::after {
+		right: 20px;
+	}
+	.about-us-area{
+		margin-top: 0;
+	}
+}
+@media (max-width: 1199px) and (min-width: 992px){
+	.about-area-thumb {
+    overflow: hidden;
+	}
+	.elementor-276 .elementor-element.elementor-element-9db3aa7 .title{
+		font-size: 22px;
+		line-height: 30px;
+		margin-bottom: 15px;
+	}
+	.cta-content {
+    padding: 25px 25px 25px 45px;
+	}
+}
+@media (min-width: 768px) and (max-width: 992px){
+	.calltoaction-area .find-icon {
+    top: -70px;
+	}
+}
+@media (max-width: 1890px) and (min-width: 1600px){
+	.inner-topbar .top-left{
+		left: 586px;
+	}
+}
+
+.elementor-widget-insut-call-to-action img,
+.calltoaction-area img,
+.calltoaction-area img {
+    height: 100%;
+}
+
+.fix__bg{
+	background-size: 100% 100%;
+}

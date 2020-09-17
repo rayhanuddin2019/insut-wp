@@ -1,7 +1,7 @@
 <?php 
 
     $banner_image    = '';
-    $banner_title    = get_the_title();
+    $banner_title    = str_replace(['{','}'],['',''], get_the_title());
     $show            = insut_option('service_banner_show',1);
     $show_breadcrumb = insut_option('service_show_breadcrumb',1);
     $banner_class    = '';
@@ -12,10 +12,7 @@
 
         $banner_title = insut_meta_option( get_the_ID(), 'banner_service_title' );
         
-    }else{
-
-        $banner_title = get_the_title(); 
-    } 
+    }
 
     /* Title end */
   

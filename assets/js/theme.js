@@ -220,5 +220,16 @@
     ================================*/
     $('#preloader').delay(500).fadeOut(500);
    
+    /*===============================  
+           18 Sticky
+    ================================*/
+        jQuery(window).on('scroll', function (event) {
+            var scroll = jQuery(window).scrollTop();
+            if (scroll < 160) {
+                jQuery("header").removeClass("sticky");
+            } else {
+                jQuery("header").addClass("sticky");
+            }
+        });
 
 })(jQuery);

@@ -7,7 +7,10 @@
 
    $related_service = insut_related_posts_by_service_cat(get_the_id());
    $service_icon    = insut_option('service_related_post_icon',0);
-  
+   
+   if(!is_array($related_service) || count($related_service) ==0){
+      return;
+   }
 
 ?>
  
@@ -16,6 +19,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
+
                         <h3 class="relative-title"> <?php echo esc_html__('Related Services:','insut'); ?> </h3>
                         <!-- Service Relative Slider Start -->
                         <div class="relative-slider owl-carousel">
@@ -44,7 +48,11 @@
                                     </div>
                                     
                                 </div>
-                                <h4><a href="<?php echo esc_url(get_the_permalink($service)); ?>"> <?php echo esc_html(get_the_title($service)); ?> </a></h4>
+                                <?php
+                                   $service_title = str_replace(['{','}'],['',''],get_the_title($service));
+                                   
+                                ?>
+                                <h4><a href="<?php echo esc_url(get_the_permalink($service)); ?>"> <?php echo esc_html($service_title); ?> </a></h4>
                                 <a class="read-more" href="<?php echo esc_url(get_the_permalink($service)); ?>"> <?php echo esc_html__('Details','insut'); ?> <i class="icofont-arrow-right"></i> </a>
                             </div>
                             <?php endforeach; ?>

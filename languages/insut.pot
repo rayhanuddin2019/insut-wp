@@ -1,0 +1,2339 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: insut\n"
+"POT-Creation-Date: 2020-09-13 12:09+0600\n"
+"PO-Revision-Date: 2020-09-13 12:05+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: esc_html__;__;esc_html_e;esc_attr__;esc_attr_e;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:20
+msgid "Sorry,"
+msgstr ""
+
+#: 404.php:20
+msgid "This Page Is Not Found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Commodo consequat duis aute irure dolor reprehender\n"
+"                                                      voluptate velit fugiat nulla pariatur."
+msgstr ""
+
+#: 404.php:25
+msgid "Back to Home"
+msgstr ""
+
+#: app/Core/Footer.php:26
+msgid "Footer One"
+msgstr ""
+
+#: app/Core/Footer.php:28
+msgid "Footer one Widget."
+msgstr ""
+
+#: app/Core/Footer.php:38
+msgid "Footer Two"
+msgstr ""
+
+#: app/Core/Footer.php:40
+msgid "Footer  widget."
+msgstr ""
+
+#: app/Core/Footer.php:50
+msgid "Footer Three"
+msgstr ""
+
+#: app/Core/Footer.php:52 app/Core/Footer.php:64
+msgid "Footer widget."
+msgstr ""
+
+#: app/Core/Footer.php:62
+msgid "Footer Four"
+msgstr ""
+
+#: app/Core/Hook/Blog.php:29 app/Utility/Helpers.php:539
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: app/Core/Hook/Blog.php:54
+msgid "Search here"
+msgstr ""
+
+#: app/Core/Hook/Demo.php:25
+msgid "Demo"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:26
+msgid "Elementor"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:31
+msgid "Contact form 7"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:36
+msgid "Mailchimp"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:41
+msgid "Unyson"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:46
+msgid "Classic editor"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:52
+msgid "Codester Framework"
+msgstr ""
+
+#: app/Core/Hook/RequiredPlugins.php:58
+msgid "Insut Essentials"
+msgstr ""
+
+#: app/Core/Sidebar.php:26
+msgid "Blog widget area"
+msgstr ""
+
+#: app/Core/Sidebar.php:28
+msgid "Appears on posts."
+msgstr ""
+
+#: app/Core/Tags.php:53 app/Core/Tags.php:58
+msgid ", "
+msgstr ""
+
+#: app/Core/Tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: app/Core/Tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: app/Core/Tags.php:66
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: app/Core/Tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: app/Option/Parent-page.php:10 app/Option/Parent-page.php:14
+msgid "Insut Theme"
+msgstr ""
+
+#: app/Option/Parent-page.php:40
+msgid "Credited by Quomodosoft"
+msgstr ""
+
+#: app/Option/Posts/Page.php:27 app/Option/Settings/Banner.php:52
+#: app/Option/Settings/Banner.php:196
+msgid "Page Banner"
+msgstr ""
+
+#: app/Option/Posts/Page.php:36 app/Option/Posts/Quomodo-case.php:54
+#: app/Option/Posts/Quomodo-service.php:80 app/Option/Settings/Banner.php:44
+#: app/Option/Settings/Banner.php:82 app/Option/Settings/Banner.php:108
+#: app/Option/Settings/Banner.php:136
+msgid "Upload Background"
+msgstr ""
+
+#: app/Option/Posts/Page.php:37 app/Option/Posts/Quomodo-case.php:55
+#: app/Option/Posts/Quomodo-service.php:81 app/Option/Settings/Banner.php:45
+#: app/Option/Settings/Banner.php:83 app/Option/Settings/Banner.php:109
+#: app/Option/Settings/Banner.php:137
+msgid "Upload main Image width 1200px and height 400px."
+msgstr ""
+
+#: app/Option/Posts/Page.php:45 app/Option/Posts/Quomodo-case.php:63
+#: app/Option/Posts/Quomodo-service.php:88 app/Option/Settings/Banner.php:182
+#: app/Option/Settings/Banner.php:225
+msgid "Overlay Color"
+msgstr ""
+
+#: app/Option/Posts/Page.php:51 app/Option/Posts/Quomodo-case.php:69
+#: app/Option/Posts/Quomodo-service.php:94 app/Option/Settings/Banner.php:188
+#: app/Option/Settings/Banner.php:231
+msgid "Overlay Opacity"
+msgstr ""
+
+#: app/Option/Posts/Page.php:52 app/Option/Posts/Quomodo-case.php:70
+#: app/Option/Posts/Quomodo-service.php:95
+msgid "Enter Fraction Value"
+msgstr ""
+
+#: app/Option/Posts/Page.php:58 app/Option/Settings/Banner.php:202
+msgid "Page Title Color"
+msgstr ""
+
+#: app/Option/Posts/Page.php:65 app/Option/Settings/Banner.php:165
+#: app/Option/Settings/Banner.php:208
+msgid "Page Breadcrumb Color"
+msgstr ""
+
+#: app/Option/Posts/Page.php:73 app/Option/Posts/Quomodo-case.php:91
+#: app/Option/Posts/Quomodo-service.php:116 app/Option/Settings/Banner.php:173
+#: app/Option/Settings/Banner.php:216 app/Option/Settings/Banner.php:259
+#: app/Option/Settings/Banner.php:286
+msgid "Breadcrumb Icon Color"
+msgstr ""
+
+#: app/Option/Posts/Page.php:91
+msgid "Override Header"
+msgstr ""
+
+#: app/Option/Posts/Page.php:92
+msgid "If you want to override header style you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Posts/Page.php:99 app/Option/Settings/Header.php:22
+msgid "Header Style"
+msgstr ""
+
+#: app/Option/Posts/Page.php:100 app/Option/Settings/Header.php:23
+msgid "Select the header style which you want to show on your website."
+msgstr ""
+
+#: app/Option/Posts/Page.php:119 app/Option/Settings/Elementor-Builder.php:5
+msgid "Elementor Header Footer"
+msgstr ""
+
+#: app/Option/Posts/Page.php:126 app/Option/Settings/Elementor-Builder.php:20
+#: app/Option/Settings/Header.php:6 app/Option/Settings/Header.php:14
+msgid "Header"
+msgstr ""
+
+#: app/Option/Posts/Page.php:128 app/Option/Posts/Page.php:136
+#: app/Option/Settings/Elementor-Builder.php:22
+#: app/Option/Settings/Elementor-Builder.php:37
+msgid "Create Footer from"
+msgstr ""
+
+#: app/Option/Posts/Page.php:128 app/Option/Posts/Page.php:136
+#: app/Option/Settings/Elementor-Builder.php:22
+#: app/Option/Settings/Elementor-Builder.php:37
+msgid " Here"
+msgstr ""
+
+#: app/Option/Posts/Page.php:134 app/Option/Posts/Page.php:143
+#: app/Option/Settings/Elementor-Builder.php:34
+#: app/Option/Settings/Footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: app/Option/Posts/Page.php:149 app/Option/Settings/Footer.php:25
+msgid "Enable Call To Action"
+msgstr ""
+
+#: app/Option/Posts/Page.php:150
+msgid "If you want to override Call To Action Settings  you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Posts/Page.php:157
+msgid "Override Footer style"
+msgstr ""
+
+#: app/Option/Posts/Page.php:158
+msgid "If you want to override Footer  Settings  you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Posts/Page.php:165 app/Option/Settings/Footer.php:132
+msgid "Footer Style"
+msgstr ""
+
+#: app/Option/Posts/Page.php:166 app/Option/Settings/Footer.php:133
+msgid "Select the Footer style which you want to show on your website."
+msgstr ""
+
+#: app/Option/Posts/Page.php:178 app/Option/Posts/Page.php:187
+#: app/Option/Posts/Page.php:204 app/Option/Settings/Footer.php:147
+msgid "Footer Background "
+msgstr ""
+
+#: app/Option/Posts/Page.php:188 app/Option/Posts/Page.php:205
+#: app/Option/Settings/Blog.php:144 app/Option/Settings/Footer.php:54
+#: app/Option/Settings/Footer.php:148 app/Option/Settings/Footer.php:162
+#: app/Option/Settings/Footer.php:264
+msgid "Upload a new background image to set the footer background."
+msgstr ""
+
+#: app/Option/Posts/Page.php:221
+msgid "Footer Background"
+msgstr ""
+
+#: app/Option/Posts/Post.php:18 app/Option/Posts/Quomodo-case.php:18
+#: app/Option/Posts/Quomodo-contacts.php:19
+#: app/Option/Posts/Quomodo-service.php:18 app/Option/Settings/Blog.php:13
+#: app/Option/Settings/General.php:5
+msgid "General"
+msgstr ""
+
+#: app/Option/Posts/Post.php:24 app/Option/Settings/Post-Page.php:80
+#: app/Option/Taxonomy/service-cat.php:25
+msgid "Icon"
+msgstr ""
+
+#: app/Option/Posts/Post.php:25 app/Option/Taxonomy/service-cat.php:26
+msgid "Set the Thumb icon "
+msgstr ""
+
+#: app/Option/Posts/Post.php:34
+msgid "Video"
+msgstr ""
+
+#: app/Option/Posts/Post.php:40
+msgid "Video Url"
+msgstr ""
+
+#: app/Option/Posts/Post.php:41
+msgid "Provide Url here From Youtube"
+msgstr ""
+
+#: app/Option/Posts/Post.php:48
+msgid "Audio"
+msgstr ""
+
+#: app/Option/Posts/Post.php:54
+msgid "Audio URL"
+msgstr ""
+
+#: app/Option/Posts/Post.php:55
+msgid "Provide SoundCloud audio url"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:24
+msgid "Client Name"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:25
+msgid "Set Client Name"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:31
+msgid "Case Duration"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:32
+msgid "Set Case Duration"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:46 app/Option/Posts/Quomodo-service.php:72
+msgid "Banner Title"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:76
+#: app/Option/Posts/Quomodo-service.php:101 app/Option/Settings/Banner.php:158
+#: app/Option/Settings/Style.php:36
+msgid "Title Color"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-case.php:83
+#: app/Option/Posts/Quomodo-service.php:108
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:25
+msgid "Contact Type"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:26
+msgid "Set Contacts Type "
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:27
+msgid "Select an Option"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:29
+msgid "Branch"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:30
+msgid "Agents"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:31
+msgid "Medical Provider"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:39 app/Option/Settings/Header.php:251
+msgid "Address"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:47 app/Option/Settings/Header.php:227
+#: app/Option/Settings/Header.php:260
+msgid "Email"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:54
+msgid "TelePhone"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-contacts.php:61
+msgid "Working Hours"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:24
+msgid "Excerp"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:29
+msgid " You can use { some line } for highlighted text"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:35
+msgid "Title Icon"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:36
+msgid "Set the thumb icon "
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:42
+msgid "Service Type"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:43
+msgid "Set service Type "
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:49
+msgid "Service Type Slug"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:50
+msgid "Set service Type slug "
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:56
+msgid "Type Icon"
+msgstr ""
+
+#: app/Option/Posts/Quomodo-service.php:57
+msgid "Set the service type icon "
+msgstr ""
+
+#: app/Option/Settings/BackUp.php:6
+msgid "Backup Options"
+msgstr ""
+
+#: app/Option/Settings/BackUp.php:12
+msgid "Backup Your All Options"
+msgstr ""
+
+#: app/Option/Settings/BackUp.php:13
+msgid "If you want to take backup your option you can backup here."
+msgstr ""
+
+#: app/Option/Settings/Banner.php:6
+msgid "Banner"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:12
+msgid "Content Settings"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:17 app/Option/Settings/Banner.php:23
+#: app/Option/Settings/Banner.php:152
+msgid "Blog Banner"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:30
+msgid "Blog Breadcrumb"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:37
+msgid "Blog title"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:59
+msgid "Page Banner Show "
+msgstr ""
+
+#: app/Option/Settings/Banner.php:66
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:74
+msgid "Page Title"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:89 app/Option/Settings/Banner.php:95
+#: app/Option/Settings/Banner.php:239
+msgid "Service Banner"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:101
+msgid "Service Breadcrumb"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:115
+msgid "Case Study Banner"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:121 app/Option/Settings/Banner.php:266
+msgid "Case Banner"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:128
+msgid "Case Breadcrumb"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:147 app/Option/Settings/Style.php:6
+msgid "Style"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:245
+msgid "Service Title Color"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:251
+msgid "Service Breadcrumb Color"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:272
+msgid "Case Title Color"
+msgstr ""
+
+#: app/Option/Settings/Banner.php:278
+msgid "Case Breadcrumb Color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:6 app/Option/Settings/General.php:20
+#: app/Utility/global.php:616
+msgid "Blog"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:19
+msgid "Blog Sidebar"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:22
+msgid "No sidebar"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:23
+msgid "Left Sidebar"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:24
+msgid "Right Sidebar"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:33
+msgid "Box Shadow"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:39
+msgid "Blog Author"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:46
+msgid "Blog Author image"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:53
+msgid "Blog Date"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:60
+msgid "Blog Comment"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:67
+msgid "Blog Views"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:74
+msgid "Blog Category"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:81
+msgid "Blog Category Single"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:87
+msgid "Blog Readmore"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:93
+msgid "Blog Readmore Text"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:94
+msgid "Read More"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:100
+msgid "Blog Navigation"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:107
+msgid "Navigation Alignment"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:110
+msgid "Left"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:111
+msgid "Center"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:112
+msgid "Right"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:119
+msgid "Blog & Page Default Options"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:125
+msgid "Blog Excerpt Word"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:126
+msgid "Set the words that how many words you want to show in every blog post item."
+msgstr ""
+
+#: app/Option/Settings/Blog.php:136
+msgid "Sidebar Style"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:143
+msgid "Sidebar Background"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:159
+msgid "Sidebar Padding Top"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:169
+msgid "Sidebar Padding Bottom"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:181
+msgid "Text & Link Color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:186 app/Option/Settings/Footer.php:197
+msgid "Widget Title Color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:187
+msgid "Set Sideabr widget title color form here."
+msgstr ""
+
+#: app/Option/Settings/Blog.php:193 app/Option/Settings/Footer.php:205
+msgid "Widget content Color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:194 app/Option/Settings/Footer.php:207
+msgid "Set footer widget content color form here."
+msgstr ""
+
+#: app/Option/Settings/Blog.php:200
+msgid "Border Color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:206
+msgid "Widget Title Margin Top"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:216
+msgid "Widget Title Margin bottom"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:227
+msgid "Sideber links color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:228
+msgid "Set the Sidebar area link color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:235
+msgid "Sidebar links Hover color"
+msgstr ""
+
+#: app/Option/Settings/Blog.php:236
+msgid "Set the footer area link hover color"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:5 app/Option/Settings/Footer.php:42
+msgid "Case Study"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:11
+msgid "Case Name"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:12
+msgid "Set case name"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:18
+msgid "Case Menu Name"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:19
+msgid "Set Case Menu name"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:25
+msgid "Case Slug Name"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:26
+msgid "Set Case slug "
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:34 app/Option/Settings/Contacts.php:33
+#: app/Option/Settings/Service.php:33
+msgid "Search Exclude"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:41 app/Option/Settings/Contacts.php:40
+#: app/Option/Settings/Service.php:40
+msgid "Details page"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:47 app/Option/Settings/Service.php:47
+msgid "Related Post"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:53
+msgid "Related Case Study Limit"
+msgstr ""
+
+#: app/Option/Settings/Case-Study.php:54
+msgid "Load related case Study Items by category "
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:5
+msgid "Address Book"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:11
+msgid "Contacts Name"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:12
+msgid "Set Contacts name"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:18
+msgid "Contacts Menu Name"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:19
+msgid "Set Contacts Menu name"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:25
+msgid "Contacts Slug Name"
+msgstr ""
+
+#: app/Option/Settings/Contacts.php:26
+msgid "Set contacts slug "
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:10
+msgid "Custom Css"
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:16
+msgid "Custom CSS  ( All Device )"
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:21
+msgid "Write custom css here with css selector. this css will be applied in all pages and post."
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:33
+msgid "Custom CSS  ( Medium Device or Ipad Pro )"
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:38
+msgid "Write custom css here with css selector. this css will be applied in all pages and post, when device width will be  minimum 1024px maximum 1366px."
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:50
+msgid "Custom CSS  ( Medium Device or Tablet )"
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:55
+msgid "Write custom css here with css selector. this css will be applied in all pages and post, when device width will be  minimum 768px maximum 992px."
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:67
+msgid "Custom CSS  ( Mobile Device )"
+msgstr ""
+
+#: app/Option/Settings/Custom-css.php:72
+msgid "Write custom css here with css selector. this css will be applied in all pages and post, when device width will be maximum 767px."
+msgstr ""
+
+#: app/Option/Settings/Faq.php:5
+msgid "Faq"
+msgstr ""
+
+#: app/Option/Settings/Faq.php:11
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: app/Option/Settings/Faq.php:17
+msgid "Group Name"
+msgstr ""
+
+#: app/Option/Settings/Faq.php:24
+msgid "Question List"
+msgstr ""
+
+#: app/Option/Settings/Faq.php:29
+msgid "Faq Question"
+msgstr ""
+
+#: app/Option/Settings/Faq.php:34
+msgid "Faq Answer"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:12 app/Option/Settings/Footer.php:18
+#: template-parts/footer/call-to-action.php:34
+msgid "Call To Action"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:33
+msgid "Permitted Pages"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:36
+msgid "Select pages"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:38
+msgid "All"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:39
+msgid "Post"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:40
+msgid "Page"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:41 app/Option/Settings/Service.php:5
+msgid "Service"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:43
+msgid "Blog List"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:53
+msgid "Call To Action Background "
+msgstr ""
+
+#: app/Option/Settings/Footer.php:62
+msgid "Upload left image"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:65 app/Option/Settings/Footer.php:390
+#: app/Option/Settings/Portfolio.php:48 app/Option/Settings/Portfolio.php:57
+msgid "Add Image"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:66 app/Option/Settings/Footer.php:391
+msgid "Remove Image"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:73 app/Option/Settings/Portfolio.php:35
+msgid "Title"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:74
+msgid "Set title"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:80
+msgid "Middle Icons"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:86
+msgid "Button Title"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:87
+msgid "Set Button title"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:93
+msgid "Button link"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:94
+msgid "Set Button link"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:99
+msgid "Button Icons"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:105
+msgid "Contact Label"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:106
+msgid "Set Contact label"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:112
+msgid "Contact value"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:113
+msgid "Set Contact value"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:121
+msgid "Footer layout & style"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:126
+msgid "Footer Settings"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:154
+msgid "Footer Inner Box"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:161
+msgid "Footer inner Background "
+msgstr ""
+
+#: app/Option/Settings/Footer.php:171
+msgid "Footer inner Padding"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:178
+msgid "Footer Main Box"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:183
+msgid "Footer Padding"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:191
+msgid "Footer Text & Link Color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:198
+msgid "Set footer widget title color form here."
+msgstr ""
+
+#: app/Option/Settings/Footer.php:231
+msgid "Widget title margin"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:239
+msgid "Widget content margin"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:248
+msgid "Footer links color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:249
+msgid "Set the footer area link color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:257
+msgid "Copyright & Back Button"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:263
+msgid "Copyright "
+msgstr ""
+
+#: app/Option/Settings/Footer.php:272
+msgid "Copyright Padding"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:280
+msgid "Copyright content Padding"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:289
+msgid "Copyright Text Color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:290
+msgid "Set footer copyright text color form here."
+msgstr ""
+
+#: app/Option/Settings/Footer.php:297
+msgid "Copyright link Color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:298
+msgid "Set footer copyright link color form here."
+msgstr ""
+
+#: app/Option/Settings/Footer.php:305
+msgid "Copyright Border"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:312
+msgid "Enable Back to Button"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:319
+msgid "Back Button Border"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:327
+msgid "Back Button Icon Color"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:328
+msgid "Set footer Back Button icon color form here."
+msgstr ""
+
+#: app/Option/Settings/Footer.php:336
+msgid "Button Background"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:347 app/Option/Settings/Header.php:144
+msgid "Button Background hover bgColor"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:361 app/Option/Settings/Footer.php:367
+msgid "Footer Copyright"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:368
+msgid "Set the footer copyright text"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:380
+msgid "Footer Logo"
+msgstr ""
+
+#: app/Option/Settings/Footer.php:387
+#: template-parts/footer/footer-style2.php:50
+#: template-parts/footer/footer-style3.php:50
+msgid "Copyright Logo"
+msgstr ""
+
+#: app/Option/Settings/General.php:11
+msgid "Text Logo"
+msgstr ""
+
+#: app/Option/Settings/General.php:18
+msgid "Blog Title"
+msgstr ""
+
+#: app/Option/Settings/General.php:19
+msgid "Set global blog title"
+msgstr ""
+
+#: app/Option/Settings/General.php:27
+msgid "Breadcrumb"
+msgstr ""
+
+#: app/Option/Settings/General.php:34
+msgid "Breadcrumb limit"
+msgstr ""
+
+#: app/Option/Settings/General.php:35
+msgid "Set the breadcrump text limit"
+msgstr ""
+
+#: app/Option/Settings/General.php:43
+msgid "Contact form"
+msgstr ""
+
+#: app/Option/Settings/General.php:49
+msgid "PopUp Contact"
+msgstr ""
+
+#: app/Option/Settings/General.php:56
+msgid "Select Contact Shortcode"
+msgstr ""
+
+#: app/Option/Settings/Header.php:36
+msgid "Disable Transparent Header"
+msgstr ""
+
+#: app/Option/Settings/Header.php:42
+msgid "Header Background"
+msgstr ""
+
+#: app/Option/Settings/Header.php:43
+msgid "Set the header background form here."
+msgstr ""
+
+#: app/Option/Settings/Header.php:52
+msgid "Enable Cta Button"
+msgstr ""
+
+#: app/Option/Settings/Header.php:53
+msgid "If you want to enable or disable button you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Header.php:60
+msgid "Button lebel"
+msgstr ""
+
+#: app/Option/Settings/Header.php:61
+msgid "Set the Button text."
+msgstr ""
+
+#: app/Option/Settings/Header.php:62
+msgid "Contact Us"
+msgstr ""
+
+#: app/Option/Settings/Header.php:69
+msgid "Button url"
+msgstr ""
+
+#: app/Option/Settings/Header.php:70
+msgid "Set the Button url."
+msgstr ""
+
+#: app/Option/Settings/Header.php:79
+msgid "Enable Flag"
+msgstr ""
+
+#: app/Option/Settings/Header.php:80
+msgid "If you want to enable or disable flag you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Header.php:87
+msgid "Flag Label"
+msgstr ""
+
+#: app/Option/Settings/Header.php:88
+msgid "English"
+msgstr ""
+
+#: app/Option/Settings/Header.php:95
+msgid "Flag Upload"
+msgstr ""
+
+#: app/Option/Settings/Header.php:96
+msgid "Set National Flag"
+msgstr ""
+
+#: app/Option/Settings/Header.php:102
+msgid "Flag Url"
+msgstr ""
+
+#: app/Option/Settings/Header.php:108
+msgid "Button Styling"
+msgstr ""
+
+#: app/Option/Settings/Header.php:114
+msgid "Button Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:122
+msgid "Button Hover Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:133
+msgid "Button Background Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:154
+msgid "Button Border"
+msgstr ""
+
+#: app/Option/Settings/Header.php:163
+msgid "Contact Info"
+msgstr ""
+
+#: app/Option/Settings/Header.php:169
+msgid "Topbar Contact"
+msgstr ""
+
+#: app/Option/Settings/Header.php:176
+msgid "Enable Phone"
+msgstr ""
+
+#: app/Option/Settings/Header.php:177
+msgid "If you want to enable or disable phone you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Header.php:185
+msgid "Phone Label"
+msgstr ""
+
+#: app/Option/Settings/Header.php:186
+msgid "Give Phone Lavel here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:187
+msgid "Call Us"
+msgstr ""
+
+#: app/Option/Settings/Header.php:195
+msgid "Phone Number"
+msgstr ""
+
+#: app/Option/Settings/Header.php:196
+msgid "Give phone number here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:197
+msgid "+00 823 468 739"
+msgstr ""
+
+#: app/Option/Settings/Header.php:207
+msgid "Enable Email"
+msgstr ""
+
+#: app/Option/Settings/Header.php:208
+msgid "If you want to enable or disable email you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Header.php:216
+msgid "Email Label"
+msgstr ""
+
+#: app/Option/Settings/Header.php:217
+msgid "Give Email Lavel here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:218
+msgid "Email Us"
+msgstr ""
+
+#: app/Option/Settings/Header.php:228
+msgid "Give email here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:229
+msgid "insut@gmail.com"
+msgstr ""
+
+#: app/Option/Settings/Header.php:239
+msgid "Enable Address"
+msgstr ""
+
+#: app/Option/Settings/Header.php:240
+msgid "If you want to enable or disable address you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Header.php:249
+msgid "Address Label"
+msgstr ""
+
+#: app/Option/Settings/Header.php:250
+msgid "Give Address Lavel here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:261
+msgid "Give address here"
+msgstr ""
+
+#: app/Option/Settings/Header.php:262
+msgid "86 Mist Street, USA"
+msgstr ""
+
+#: app/Option/Settings/Header.php:274
+msgid "Main Menu"
+msgstr ""
+
+#: app/Option/Settings/Header.php:280 app/Option/Settings/Header.php:286
+msgid "Menu Background"
+msgstr ""
+
+#: app/Option/Settings/Header.php:287
+msgid "Set the menu background form here."
+msgstr ""
+
+#: app/Option/Settings/Header.php:295
+msgid "Menu Shape Background"
+msgstr ""
+
+#: app/Option/Settings/Header.php:296
+msgid "Set the menu background shape form here."
+msgstr ""
+
+#: app/Option/Settings/Header.php:306 app/Option/Settings/Header.php:312
+msgid "Menu Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:313
+msgid "Set the menu color by color picker"
+msgstr ""
+
+#: app/Option/Settings/Header.php:320
+msgid "Menu Hover Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:321
+msgid "Set the menu hover color by color picker"
+msgstr ""
+
+#: app/Option/Settings/Header.php:328
+msgid "Menu Hover shape"
+msgstr ""
+
+#: app/Option/Settings/Header.php:329
+msgid "Set the menu hover top icon."
+msgstr ""
+
+#: app/Option/Settings/Header.php:338
+msgid "Menu Dropdown Color & Hover"
+msgstr ""
+
+#: app/Option/Settings/Header.php:343
+msgid "Menu Dropdown Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:344
+msgid "Set the menu dropdown color by color picker"
+msgstr ""
+
+#: app/Option/Settings/Header.php:351
+msgid "Menu Dropdown Hover Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:352
+msgid "Set the menu dropdown hover color by color picker"
+msgstr ""
+
+#: app/Option/Settings/Header.php:360
+msgid "Menu Dropdown Background Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:361 app/Option/Settings/Header.php:371
+msgid "Set the dropdown background color by color picker"
+msgstr ""
+
+#: app/Option/Settings/Header.php:370
+msgid "Menu Dropdown Hover Background Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:393
+msgid "Main Image Logo"
+msgstr ""
+
+#: app/Option/Settings/Header.php:398
+msgid "Upload Main Logo"
+msgstr ""
+
+#: app/Option/Settings/Header.php:399
+msgid "Upload main logo width 180px and height 65px."
+msgstr ""
+
+#: app/Option/Settings/Header.php:401 app/Option/Settings/Header.php:409
+msgid "Note: Please use logo image max width: 250px and max height 100px."
+msgstr ""
+
+#: app/Option/Settings/Header.php:406
+msgid "Upload white Logo"
+msgstr ""
+
+#: app/Option/Settings/Header.php:407
+msgid "Upload Color logo width 180px and height 65px."
+msgstr ""
+
+#: app/Option/Settings/Header.php:414 app/Option/Settings/Header.php:419
+msgid "Text Logo Color"
+msgstr ""
+
+#: app/Option/Settings/Header.php:420
+msgid "Set the text logo color by color picker."
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:5 app/Option/Settings/Portfolio.php:11
+msgid "PortFolio"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:17
+msgid "Menu / Category Name"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:22
+msgid "Menu Slug"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:23
+msgid "Write down Slug with hypen and lowwecase latter"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:30
+msgid "PortFolio List"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:40
+msgid "Sub Title"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:45
+msgid "Screenshot"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:49 app/Option/Settings/Portfolio.php:58
+msgid "Renmove Image"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:54
+msgid "Hover Shape image"
+msgstr ""
+
+#: app/Option/Settings/Portfolio.php:63
+msgid "Date"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:7
+msgid "Post & Page"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:12
+msgid "Post Setting"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:18
+msgid "Enable Post tags"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:19
+msgid "If you want to enable or disable post tags you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:26
+msgid "Blog Author About"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:32
+msgid "404 Error Page Setting"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:39
+msgid "Override 404 header"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:40
+msgid "If you want to Override  404 page header ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:47
+msgid "Enable 404 footer"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:48 app/Option/Settings/Post-Page.php:55
+msgid "If you want to enable or disable 404 page footer you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:54
+msgid "Blog Container"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:62
+msgid "Header Contact Info"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:68
+msgid "Label"
+msgstr ""
+
+#: app/Option/Settings/Post-Page.php:74
+msgid "Content"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:7
+msgid "Preloader"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:12
+msgid "Preloader Type"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:17
+msgid "Enable Preloader"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:18
+msgid "If you want to enable or disable preloader you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:24
+msgid "Select Preloader Style"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:25
+msgid "You can set specifc preloader style in every page form here."
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:34
+msgid "Preloader Background & Color"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:40
+msgid "Preloader Background"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:43
+msgid "Upload a new background image or select color to set the preloader background."
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:57
+msgid "Preloader Text Color"
+msgstr ""
+
+#: app/Option/Settings/Pre-Loader.php:58
+msgid "Set the preloader text color"
+msgstr ""
+
+#: app/Option/Settings/Scroll-Top-Button.php:5
+msgid "Scroll Top Button"
+msgstr ""
+
+#: app/Option/Settings/Scroll-Top-Button.php:11
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: app/Option/Settings/Scroll-Top-Button.php:12
+msgid "If you want to enable or disable scroll to top button you can set ( YES / NO )"
+msgstr ""
+
+#: app/Option/Settings/Service.php:11
+msgid "Service Name"
+msgstr ""
+
+#: app/Option/Settings/Service.php:12
+msgid "Set service name"
+msgstr ""
+
+#: app/Option/Settings/Service.php:18
+msgid "Service Menu Name"
+msgstr ""
+
+#: app/Option/Settings/Service.php:19
+msgid "Set service Menu name"
+msgstr ""
+
+#: app/Option/Settings/Service.php:25
+msgid "Service Slug Name"
+msgstr ""
+
+#: app/Option/Settings/Service.php:26
+msgid "Set service slug "
+msgstr ""
+
+#: app/Option/Settings/Service.php:54
+msgid "Related Service Limit"
+msgstr ""
+
+#: app/Option/Settings/Service.php:55
+msgid "Load related Service Items by category "
+msgstr ""
+
+#: app/Option/Settings/Service.php:62
+msgid "Related Post Icon"
+msgstr ""
+
+#: app/Option/Settings/Service.php:63
+msgid "Enable Related post title icon from post"
+msgstr ""
+
+#: app/Option/Settings/Social.php:5
+msgid "Social"
+msgstr ""
+
+#: app/Option/Settings/Social.php:11
+msgid "Add Social Bookmark"
+msgstr ""
+
+#: app/Option/Settings/Social.php:12 app/Option/Settings/Social.php:40
+msgid "Add New Bookmark"
+msgstr ""
+
+#: app/Option/Settings/Social.php:13 app/Option/Settings/Social.php:41
+msgid "Set the social bookmark icon and link here. Esay to use it just click the add icon button and search your social icon and set the url for the profile ."
+msgstr ""
+
+#: app/Option/Settings/Social.php:19 app/Option/Settings/Social.php:47
+msgid "Social Icon"
+msgstr ""
+
+#: app/Option/Settings/Social.php:20 app/Option/Settings/Social.php:48
+msgid "Set the social profile icon like ( facebook, twitter, linkedin, youtube ect. )"
+msgstr ""
+
+#: app/Option/Settings/Social.php:29
+msgid "Select an type"
+msgstr ""
+
+#: app/Option/Settings/Social.php:39
+msgid "Add Social Link"
+msgstr ""
+
+#: app/Option/Settings/Social.php:55
+msgid "Profile Url"
+msgstr ""
+
+#: app/Option/Settings/Social.php:56
+msgid "Type the social profile url lik http://facebook.com/yourpage. also you can add (facebook, twitter, linkedin, youtube etc.)"
+msgstr ""
+
+#: app/Option/Settings/Social.php:65
+msgid "Enable Header Social"
+msgstr ""
+
+#: app/Option/Settings/Social.php:66
+msgid "Set the header social hide or not."
+msgstr ""
+
+#: app/Option/Settings/Social.php:73
+msgid "Enable Blog Social Share"
+msgstr ""
+
+#: app/Option/Settings/Social.php:74
+msgid "Set the Social social hide or not."
+msgstr ""
+
+#: app/Option/Settings/Social.php:80
+msgid "Enable Footer Social"
+msgstr ""
+
+#: app/Option/Settings/Social.php:81
+msgid "Set the footer social hide or not."
+msgstr ""
+
+#: app/Option/Settings/Social.php:88
+msgid "Footer Social Color"
+msgstr ""
+
+#: app/Option/Settings/Social.php:89
+msgid "Set the footer social bookmark color from here."
+msgstr ""
+
+#: app/Option/Settings/Social.php:97
+msgid "Footer Social Hover Color"
+msgstr ""
+
+#: app/Option/Settings/Social.php:98
+msgid "Set the footer social bookmark hover color from here."
+msgstr ""
+
+#: app/Option/Settings/Style.php:12
+msgid "Body Background"
+msgstr ""
+
+#: app/Option/Settings/Style.php:13
+msgid "Set the body background color"
+msgstr ""
+
+#: app/Option/Settings/Style.php:27
+msgid "Body Text Color"
+msgstr ""
+
+#: app/Option/Settings/Style.php:28
+msgid "Set footer widgetbody content color form here."
+msgstr ""
+
+#: app/Option/Settings/Style.php:37
+msgid "Set blog title color form here."
+msgstr ""
+
+#: app/Option/Settings/Style.php:44
+msgid "Body Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:51
+msgid "Heading H1 Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:58
+msgid "Heading H2 Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:65
+msgid "Heading H3 Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:72
+msgid "Heading H4 Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:78
+msgid "Heading H5 Font"
+msgstr ""
+
+#: app/Option/Settings/Style.php:84
+msgid "Heading H6 Font"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:386
+#: app/Plugins/class-tgm-plugin-activation.php:823
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+#: app/Plugins/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:387
+#: app/Plugins/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: app/Setup/Enqueue.php:27
+msgid "Already updated"
+msgstr ""
+
+#: app/Setup/Enqueue.php:87
+msgid "Loading More Posts..."
+msgstr ""
+
+#: app/Setup/Menus.php:24
+msgid "Primary"
+msgstr ""
+
+#: app/Setup/Menus.php:25
+msgid "Footer Menu"
+msgstr ""
+
+#: app/Utility/Helpers.php:347
+msgid " minute read"
+msgstr ""
+
+#: app/Utility/Helpers.php:349
+msgid " minutes read"
+msgstr ""
+
+#: app/Utility/Helpers.php:361
+msgid "More pages: "
+msgstr ""
+
+#: app/Utility/Helpers.php:367
+msgid "Next "
+msgstr ""
+
+#: app/Utility/Helpers.php:368
+msgid " Previous"
+msgstr ""
+
+#: app/Utility/Helpers.php:423
+msgid "says:"
+msgstr ""
+
+#: app/Utility/Helpers.php:427
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: app/Utility/Helpers.php:434
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: app/Utility/Helpers.php:437
+msgid "(Edit)"
+msgstr ""
+
+#: app/Utility/Helpers.php:455
+msgid "read more"
+msgstr ""
+
+#: app/Utility/Helpers.php:489
+msgid "Previous post"
+msgstr ""
+
+#: app/Utility/Helpers.php:498
+msgid "Next post"
+msgstr ""
+
+#: app/Utility/Helpers.php:572
+msgid "None"
+msgstr ""
+
+#: app/Utility/Helpers.php:637
+msgid "No contact form found"
+msgstr ""
+
+#: app/Utility/global.php:311
+msgid "Readmore"
+msgstr ""
+
+#: app/Utility/global.php:570
+msgid "Facebook"
+msgstr ""
+
+#: app/Utility/global.php:571
+msgid "twitter"
+msgstr ""
+
+#: app/Utility/global.php:572
+msgid "linkedin"
+msgstr ""
+
+#: app/Utility/global.php:573
+msgid "pinterest "
+msgstr ""
+
+#: app/Utility/global.php:574
+msgid "digg"
+msgstr ""
+
+#: app/Utility/global.php:575
+msgid "tumblr"
+msgstr ""
+
+#: app/Utility/global.php:576 app/Utility/global.php:584
+msgid "blogger"
+msgstr ""
+
+#: app/Utility/global.php:577
+msgid "reddit"
+msgstr ""
+
+#: app/Utility/global.php:578
+msgid "delicious"
+msgstr ""
+
+#: app/Utility/global.php:579 app/Utility/global.php:586
+msgid "flipboard"
+msgstr ""
+
+#: app/Utility/global.php:580
+msgid "vkontakte"
+msgstr ""
+
+#: app/Utility/global.php:581
+msgid "odnoklassniki"
+msgstr ""
+
+#: app/Utility/global.php:582
+msgid "moimir"
+msgstr ""
+
+#: app/Utility/global.php:583
+msgid "livejournal"
+msgstr ""
+
+#: app/Utility/global.php:585
+msgid "evernote"
+msgstr ""
+
+#: app/Utility/global.php:587
+msgid "mix"
+msgstr ""
+
+#: app/Utility/global.php:588
+msgid "meneame "
+msgstr ""
+
+#: app/Utility/global.php:589
+msgid "pocket "
+msgstr ""
+
+#: app/Utility/global.php:590
+msgid "surfingbird "
+msgstr ""
+
+#: app/Utility/global.php:591
+msgid "liveinternet "
+msgstr ""
+
+#: app/Utility/global.php:592
+msgid "buffer "
+msgstr ""
+
+#: app/Utility/global.php:593
+msgid "instapaper "
+msgstr ""
+
+#: app/Utility/global.php:594
+msgid "xing "
+msgstr ""
+
+#: app/Utility/global.php:595
+msgid "wordpres "
+msgstr ""
+
+#: app/Utility/global.php:596
+msgid "baidu "
+msgstr ""
+
+#: app/Utility/global.php:597
+msgid "renren "
+msgstr ""
+
+#: app/Utility/global.php:598
+msgid "weibo "
+msgstr ""
+
+#: app/Utility/global.php:681
+msgid "Old Writter"
+msgstr ""
+
+#: app/Utility/global.php:681
+msgid "New Writter"
+msgstr ""
+
+#: app/Utility/template-tags.php:64
+msgid "Home"
+msgstr ""
+
+#: app/Utility/template-tags.php:136 app/Utility/template-tags.php:142
+#: app/Utility/template-tags.php:148
+msgid "Blogs for"
+msgstr ""
+
+#: app/Utility/template-tags.php:154
+msgid "Author Blogs"
+msgstr ""
+
+#: app/Utility/template-tags.php:159
+msgid "Blogs"
+msgstr ""
+
+#: app/Utility/template-tags.php:164
+msgid "Search Result"
+msgstr ""
+
+#: app/Utility/template-tags.php:169
+msgid "404 Not Found"
+msgstr ""
+
+#: comments.php:20
+msgid "Comment"
+msgstr ""
+
+#: comments.php:22
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:66
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:70
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:96
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:97
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:98
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:113
+msgid "Enter Comments"
+msgstr ""
+
+#: comments.php:126
+msgid "You must be"
+msgstr ""
+
+#: comments.php:126
+msgid "logged in"
+msgstr ""
+
+#: comments.php:126
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:131
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:131
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:131
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:136
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:137
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:138
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:139
+msgid "Post Comment"
+msgstr ""
+
+#: page.php:35 template-parts/blog/content-single.php:40
+msgid "Edit"
+msgstr ""
+
+#: search.php:36 search.php:55
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/blog/blog-parts/part-case-related.php:13
+msgid "Some Relative Case Studies"
+msgstr ""
+
+#: template-parts/blog/blog-parts/part-service-related.php:19
+msgid "Related Services:"
+msgstr ""
+
+#: template-parts/blog/blog-parts/part-service-related.php:48
+msgid "Details"
+msgstr ""
+
+#: template-parts/blog/blog-parts/part-tags.php:15
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/blog/content-case-study.php:12
+msgid "CLIENTS:"
+msgstr ""
+
+#: template-parts/blog/content-case-study.php:16
+msgid "Date:"
+msgstr ""
+
+#: template-parts/blog/content-case-study.php:20
+msgid "Duration:"
+msgstr ""
+
+#: template-parts/blog/content-case-study.php:24
+msgid "Share:"
+msgstr ""
+
+#: template-parts/blog/content-case-study.php:29
+#: template-parts/blog/content-page.php:22
+#: template-parts/blog/content-service.php:6
+#: template-parts/blog/content-single.php:29
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blog/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
